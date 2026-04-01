@@ -30,3 +30,6 @@ Data Cleaning
 Data Analysis
 Data Visualisation
 Business Insight Generation
+## Author
+Kushagra Panchal  
+Aspiring Data Analyst
