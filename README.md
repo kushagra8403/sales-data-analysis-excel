@@ -20,3 +20,13 @@ Sales show a consistent upward trend from 2015 to 2018
 Revenue peaks towards the end of each year, indicating seasonality
 Identified top-performing products contributing the highest revenue
 Detected fluctuations in monthly sales suggesting demand variation
+Dashboard
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/2e3bed2a-f97e-4fba-842a-248b43cb6722" />
+
+
+Skills Demonstrated
+Data Cleaning
+Data Analysis
+Data Visualisation
+Business Insight Generation
