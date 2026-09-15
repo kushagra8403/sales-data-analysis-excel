@@ -1,6 +1,14 @@
 # Data Analyst Portfolio — Kushagra Panchal
 
-A consolidated portfolio of six end-to-end analytics projects demonstrating practical skills in Excel, SQL, Python/pandas, data quality, KPI analysis and BI dashboard design.
+A six-project analytics portfolio built around realistic business questions, reproducible synthetic data, SQL, Python/pandas and BI dashboard design.
+
+> **Core workflow:** Business question → data quality → SQL/Python analysis → KPI → dashboard → business recommendation.
+
+## Dashboard previews
+
+![Sales & Revenue dashboard](./dashboard-previews/01-sales-revenue-dashboard.svg)
+
+![Executive BI dashboard](./dashboard-previews/06-executive-dashboard.svg)
 
 ## Projects
 
@@ -13,44 +21,31 @@ A consolidated portfolio of six end-to-end analytics projects demonstrating prac
 | 05 | [Operations & Workforce Analytics](./05-operations-workforce-analysis/) | Staffing, output, absence, SLA and quality | SQL, Python, Power BI |
 | 06 | [Executive BI Dashboard](./06-executive-bi-dashboard/) | Executive KPI trends across commercial and operational performance | SQL, Python, Power BI |
 
-## Analyst workflow
+## What this portfolio demonstrates
 
-Each project follows a repeatable workflow:
-
-1. Define the business problem and decision questions.
-2. Generate or ingest structured data.
-3. Validate data quality before analysis.
-4. Analyse KPIs and segments with Python/pandas.
-5. Reproduce key analysis with SQL.
-6. Translate findings into dashboard requirements.
-7. Document insights, limitations and possible actions.
-
-## Skills demonstrated
-
-- Data cleaning and validation
-- Exploratory data analysis
-- KPI definition and calculation
-- SQL aggregation, filtering, grouping and segmentation
-- pandas-based analysis
+- Data cleaning, validation and reproducible synthetic-data generation
+- SQL aggregation, segmentation, CTEs and window-function analysis
+- Python/pandas exploratory analysis and KPI calculation
 - Revenue, margin, churn, conversion, ROAS, CAC, SLA and workforce metrics
-- Business-focused insight writing
-- Power BI dashboard planning and KPI storytelling
-- Reproducible analysis and automated data-quality checks
+- Business-focused findings and recommendation writing
+- Power BI dashboard planning and executive KPI storytelling
+- Automated checks with GitHub Actions
+- Recruiter-friendly documentation, notebooks and reusable project structure
 
-## Data note
+## Reproducibility
 
-Projects use reproducible synthetic datasets. They are intentionally labelled synthetic and should not be presented as real employer or client data. Fixed random seeds make the examples repeatable.
+Each project contains a data generator with a fixed random seed. Generated datasets are intentionally kept out of Git history where practical, so the portfolio stays lightweight while remaining reproducible.
 
-## Running a project
+## Quality checks
 
-Each project contains its own README, data generator, analysis script, SQL queries, dashboard specification and requirements file. Run the generator first, then the analysis script. See each project README for exact commands.
+GitHub Actions runs portfolio checks on pushes and pull requests. See [`portfolio-checks.yml`](./.github/workflows/portfolio-checks.yml).
 
-## Portfolio goal
+## Supporting portfolio material
 
-The repository is designed to demonstrate the full analyst chain: **business question → data → validation → analysis → KPI → visualisation plan → actionable insight**.
-
-## Original project
-
-The original Sales Data Analysis Excel work remains part of the repository history and has been expanded into a broader six-project analytics portfolio.
+- [Portfolio overview](./PORTFOLIO.md)
+- [CV project descriptions](./CV_PROJECT_DESCRIPTIONS.md)
+- [CV project bullets](./CV_PROJECT_BULLETS.md)
+- [LinkedIn project descriptions](./LINKEDIN_PROJECT_DESCRIPTIONS.md)
+- [Customer churn notebook](./analysis-notebooks/customer_churn_analysis.ipynb)
 
 **Author:** Kushagra Panchal — Aspiring Data Analyst
