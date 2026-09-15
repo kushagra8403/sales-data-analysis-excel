@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="100%" height="100%" fill="white"/><text x="40" y="55" font-family="Arial" font-size="28" font-weight="bold">Sales by Region</text>
+<text x="20" y="127" font-family="Arial" font-size="16">London</text><rect x="180" y="100" width="650" height="40" fill="#4e79a7"/><text x="760" y="127" font-family="Arial" font-size="15">£517,203</text>
+<text x="20" y="189" font-family="Arial" font-size="16">Birmingham</text><rect x="180" y="162" width="588" height="40" fill="#4e79a7"/><text x="760" y="189" font-family="Arial" font-size="15">£467,878</text>
+<text x="20" y="251" font-family="Arial" font-size="16">Glasgow</text><rect x="180" y="224" width="554" height="40" fill="#4e79a7"/><text x="742" y="251" font-family="Arial" font-size="15">£440,818</text>
+<text x="20" y="313" font-family="Arial" font-size="16">Manchester</text><rect x="180" y="286" width="404.6" height="40" fill="#4e79a7"/><text x="592.6" y="313" font-family="Arial" font-size="15">£321,910</text>
+<text x="20" y="375" font-family="Arial" font-size="16">Leeds</text><rect x="180" y="348" width="371.3" height="40" fill="#4e79a7"/><text x="559.3" y="375" font-family="Arial" font-size="15">£295,464</text>
+<text x="20" y="437" font-family="Arial" font-size="16">Bristol</text><rect x="180" y="410" width="294.3" height="40" fill="#4e79a7"/><text x="482.3" y="437" font-family="Arial" font-size="15">£234,188</text>
+</svg>
