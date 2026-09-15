@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated project data and analysis outputs
+02-customer-churn-analysis/data/*.csv
+03-ecommerce-funnel-analysis/data/*.csv
+04-marketing-campaign-analysis/data/*.csv
+05-operations-workforce-analysis/data/*.csv
+06-executive-bi-dashboard/data/*.csv
+*/outputs/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
