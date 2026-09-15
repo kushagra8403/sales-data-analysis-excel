@@ -2,7 +2,7 @@
 
 Analyse an online retail funnel from sessions through product views, carts, checkout and purchases.
 
-![E-commerce funnel dashboard preview](../dashboard-previews/03-ecommerce-funnel-dashboard.svg)
+![E-commerce funnel dashboard preview](./visuals/dashboard.svg)
 
 ## Key findings
 
