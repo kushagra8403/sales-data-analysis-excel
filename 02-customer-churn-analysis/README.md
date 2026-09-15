@@ -2,6 +2,14 @@
 
 Portfolio project analysing customer churn, retention and revenue risk for a subscription business.
 
+![Churn dashboard preview](../dashboard-previews/02-churn-dashboard.svg)
+
+## Key findings
+
+- The model evaluates **2,500 customers** using tenure, plan, usage, support contacts and satisfaction.
+- Churn is analysed by customer segment rather than only as a single headline rate, making retention risk easier to prioritise.
+- Revenue-at-risk analysis connects customer churn to commercial impact instead of treating every churned account as equally valuable.
+
 ## Tools
 Python (pandas, matplotlib), SQL (SQLite), Power BI-ready outputs.
 
