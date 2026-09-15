@@ -1,0 +1,2 @@
+SELECT team,COUNT(*) headcount,ROUND(AVG(weekly_hours),2) avg_hours,ROUND(AVG(absence_days_90d),2) avg_absence,ROUND(AVG(tickets_or_units),2) avg_output,ROUND(AVG(sla_breaches),2) avg_sla_breaches,ROUND(AVG(quality_score),2) avg_quality FROM workforce GROUP BY team ORDER BY avg_sla_breaches DESC;
+SELECT shift,COUNT(*) headcount,ROUND(AVG(weekly_hours),2) avg_hours,ROUND(AVG(tickets_or_units),2) avg_output,ROUND(AVG(quality_score),2) avg_quality FROM workforce GROUP BY shift;
