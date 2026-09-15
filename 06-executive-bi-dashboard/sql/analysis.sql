@@ -1,0 +1,2 @@
+SELECT SUM(revenue) revenue,SUM(profit) profit,ROUND(SUM(profit)/SUM(revenue),4) profit_margin,SUM(orders) orders,ROUND(SUM(revenue)/SUM(orders),2) aov,ROUND(SUM(revenue)/SUM(marketing_spend),2) roas,AVG(sla_breach_rate) avg_sla_breach_rate FROM executive_kpis;
+SELECT strftime('%Y-%m',month) month,revenue,profit,profit_margin,aov,roas,sla_breach_rate FROM executive_kpis ORDER BY month DESC LIMIT 12;
