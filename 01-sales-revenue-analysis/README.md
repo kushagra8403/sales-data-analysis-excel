@@ -2,6 +2,14 @@
 
 Portfolio-grade Data Analyst project using a synthetic UK retail dataset, Python, SQL and a Power BI dashboard specification.
 
+![Sales dashboard preview](../dashboard-previews/01-sales-revenue-dashboard.svg)
+
+## Key findings
+
+- The portfolio model contains **3,000 orders** across six UK regions, three categories and three sales channels.
+- Profitability is analysed alongside revenue, so high-sales segments can be separated from genuinely strong-margin segments.
+- The analysis explicitly tests product, category, region, channel, time and discount effects before translating results into dashboard actions.
+
 ## Business problem
 Analyse sales and profitability across products, categories, regions and channels to identify revenue drivers and areas for improvement.
 
@@ -26,28 +34,19 @@ Analyse sales and profitability across products, categories, regions and channel
 - How do discount levels relate to profitability?
 
 ## Dataset
-Synthetic UK retail sales data covering January 2024 to December 2025. It contains 3,000 orders across six regions, three categories and three sales channels. The full dataset is generated reproducibly with `src/generate_data.py`.
+Synthetic UK retail sales data covering January 2024 to December 2025. The full dataset is generated reproducibly with `src/generate_data.py`.
 
 ## Project structure
 ```text
 01-sales-revenue-analysis/
 ├── README.md
 ├── data/
-│   └── README.md
 ├── requirements.txt
 ├── sql/
-│   └── analysis.sql
 ├── src/
-│   ├── generate_data.py
-│   └── analyze.py
 ├── dashboard/
-│   └── dashboard_spec.md
 ├── reports/
-│   └── findings.md
 └── visuals/
-    ├── monthly_sales.svg
-    ├── category_sales.svg
-    └── region_profit.svg
 ```
 
 ## Run locally
