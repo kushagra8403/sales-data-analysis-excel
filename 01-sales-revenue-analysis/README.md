@@ -2,7 +2,7 @@
 
 Portfolio-grade Data Analyst project using a synthetic UK retail dataset, Python, SQL and a Power BI dashboard specification.
 
-![Sales dashboard preview](../dashboard-previews/01-sales-revenue-dashboard.svg)
+![Sales dashboard preview](./visuals/dashboard.svg)
 
 ## Key findings
 
@@ -47,6 +47,10 @@ Synthetic UK retail sales data covering January 2024 to December 2025. The full 
 ├── dashboard/
 ├── reports/
 └── visuals/
+    ├── dashboard.svg
+    ├── monthly_sales.svg
+    ├── category_sales.svg
+    └── region_profit.svg
 ```
 
 ## Run locally
