@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="100%" height="100%" fill="white"/><text x="40" y="55" font-family="Arial" font-size="28" font-weight="bold">Sales by Category</text>
+<text x="20" y="127" font-family="Arial" font-size="16">Technology</text><rect x="180" y="100" width="650" height="40" fill="#4e79a7"/><text x="760" y="127" font-family="Arial" font-size="15">£1,462,352</text>
+<text x="20" y="189" font-family="Arial" font-size="16">Home</text><rect x="180" y="162" width="234.5" height="40" fill="#4e79a7"/><text x="422.5" y="189" font-family="Arial" font-size="15">£527,517</text>
+<text x="20" y="251" font-family="Arial" font-size="16">Office Supplies</text><rect x="180" y="224" width="127.8" height="40" fill="#4e79a7"/><text x="315.8" y="251" font-family="Arial" font-size="15">£287,592</text>
+</svg>
