@@ -2,7 +2,7 @@
 
 Analyse staffing levels, hours, absence, productivity and service performance to identify operational bottlenecks.
 
-![Workforce dashboard preview](../dashboard-previews/05-workforce-dashboard.svg)
+![Workforce dashboard preview](./visuals/dashboard.svg)
 
 ## Key findings
 
