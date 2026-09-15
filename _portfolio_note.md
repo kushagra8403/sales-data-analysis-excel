@@ -1,0 +1,1 @@
+Portfolio maintenance note: dashboard previews, key findings, CV descriptions and an interactive churn notebook are included to make the repository readable without cloning it. Synthetic data is used throughout the case studies.
