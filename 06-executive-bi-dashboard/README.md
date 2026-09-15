@@ -2,7 +2,7 @@
 
 A reusable executive KPI model combining sales, customers, marketing and operations concepts into one management dashboard.
 
-![Executive dashboard preview](../dashboard-previews/06-executive-dashboard.svg)
+![Executive dashboard preview](./visuals/dashboard.svg)
 
 ## Key findings
 
