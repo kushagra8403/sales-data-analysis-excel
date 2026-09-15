@@ -2,7 +2,7 @@
 
 Evaluate campaign spend, leads, conversions, revenue and return on ad spend across channels.
 
-![Marketing dashboard preview](../dashboard-previews/04-marketing-dashboard.svg)
+![Marketing dashboard preview](./visuals/dashboard.svg)
 
 ## Key findings
 
