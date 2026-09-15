@@ -2,7 +2,7 @@
 
 Portfolio project analysing customer churn, retention and revenue risk for a subscription business.
 
-![Churn dashboard preview](../dashboard-previews/02-churn-dashboard.svg)
+![Churn dashboard preview](./visuals/dashboard.svg)
 
 ## Key findings
 
