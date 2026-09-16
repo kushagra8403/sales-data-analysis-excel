@@ -2,6 +2,8 @@
 
 A six-project analytics portfolio built around realistic business questions, reproducible synthetic data, SQL, Python/pandas and BI dashboard design.
 
+> **Two-repository portfolio:** this repo uses reproducible synthetic business datasets. See also the [Real-World UK Data Analyst Portfolio](https://github.com/kushagra8403/real-data-analyst-portfolio) using genuine UK public-sector data.
+
 > **Core workflow:** Business question → data quality → SQL/Python analysis → KPI → dashboard → business recommendation.
 
 ## Dashboard previews
